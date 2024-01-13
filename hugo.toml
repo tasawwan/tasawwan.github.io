@@ -1,4 +1,4 @@
-baseURL = 'tasawwan.github.io'
+baseURL = 'https://tasawwan.github.io'
 languageCode = 'en-us'
 title = 'Tas Rahman'
 theme = 'barks'
