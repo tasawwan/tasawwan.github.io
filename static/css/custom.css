@@ -1,0 +1,11 @@
+.custom-icon {
+    background: url('https://d35jcxe8no8yhr.cloudfront.net/1054f24d72785fb7b6a4e1283656e2ab/dist/img/favicons/android-icon-192x192.png') no-repeat center center;
+    display: inline-block;
+    height: 18px;
+    width: 18px;
+    background-size: contain;
+}
+
+.title, h1, h2 {
+    text-align: left;
+}
