@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tas Rahman</title>
+    <link>/</link>
+    <description>Recent content on Tas Rahman</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resume/</guid>
+      <description>EDUCATION Brown University | Providence, RI&#xA;May 2026&#xA;Candidate for Sc.B in Computational Biology and History, Program in Liberal Medical Education&#xA;GPA: 4.0/4.0&#xA;Relevant Coursework: Data Structures &amp;amp; Algorithms, Genetics (with Lab), Statistical Inference I, Intro to Neuroscience&#xA;The International Academy | Bloomfield Hills, MI&#xA;May 2022&#xA;High School and International Baccalaureate Diploma&#xA;Salutatorian, Summa Cum Laude, Commencement Speaker&#xA;GPA: 3.99/4.0&#xA;PROFESSIONAL EXPERIENCE The Larschan and O’Connor Giles Labs, Computational Biology Research Assistant | Providence, RI</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/about/</guid>
+      <description>I am a second year PLME (Program in Liberal Medical Education) student at Brown concentrating in Computational Biology (Sc.B.) and History (A.B.).&#xA;I am super interested in doing translational research with a focus on neuropsychiatric disorders. I am also passionate about public policy and and aim to make a difference.&#xA;At the Larschan and O&amp;rsquo;Connor Giles Labs, I research gene regulation of synaptogensis in fly larvae. I work closely under the direction of my mentor, James Kentro, a doctoral candidate.</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/projects/</guid>
+      <description>Writing: Column at the Brown Daily Herald focusing on Issues in Higher Education Companies: Put Your Money Where Your Mouth Is (The Wall Street Journal) Research Experiences Synaptic Gene Regulatory Networks in D. Melanogaster (Larschan and O&amp;rsquo;Connor Giles Labs, Brown University) The Detroit Trauma Project (Wayne State University School of Medicine) Publications: Prenatal Cocaine Exposure and Adolescent PTSD Symptoms Predict Risky Sexual Behavior in Young Adulthood (Poster) D. Melanogaster Synaptic Gene Motifs in Embryonic Neurons between 10-12 hours (Poster) Leadership PLME Senate Treasurer Brown Outing Club Treasurer University Resources Committee Brown Outdoor Leadership Training Leader </description>
+    </item>
+  </channel>
+</rss>
