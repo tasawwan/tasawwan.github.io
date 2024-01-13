@@ -10,4 +10,4 @@ At the Larschan and O'Connor Giles Labs, I research gene regulation of synaptoge
 
 Before Brown, I graduated salutatorian from the International Academy in Bloomfield Hills. I also worked as a research intern at the Detroit Trauma Project where I worked under the mentorship of [Dr. Anaïs Stenson](https://www.linkedin.com/in/anais-stenson-13087525a/).
 
-Outside of research, I am an avid naturalist who loves to backpack, ski, and row. I am currently one of the leaders of the Brown Outing Club and Brown Outdoor Leadership Training and I strongly believe the outdoors can teach us life's most important lessons!
+Outside of research, I am an avid naturalist who loves to backpack, ski, and row. I am currently one of the leaders of the Brown Outing Club and Brown Outdoor Leadership Training. I strongly believe the outdoors can teach us life's most important lessons!

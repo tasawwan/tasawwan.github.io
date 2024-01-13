@@ -10,6 +10,7 @@ title: "Projects"
 ## Research Experiences
 
 - Synaptic Gene Regulatory Networks in D. Melanogaster ([Larschan](https://www.larschanlab.com/) and [O'Connor Giles](https://ocglab.org/) Labs, Brown University)
+    - [Git Repo](https://github.com/tasawwan/GRN-project)
 - [The Detroit Trauma Project](https://www.detroittraumaproject.com/) (Wayne State University School of Medicine)
 
 ## Publications:
